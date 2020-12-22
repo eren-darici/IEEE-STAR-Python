@@ -1,0 +1,5 @@
+# Input nedir?
+
+
+
+# tür(input())

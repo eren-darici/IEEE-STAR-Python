@@ -1,0 +1,5 @@
+# Tuple nedir?
+
+
+
+# len
