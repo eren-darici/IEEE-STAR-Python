@@ -33,7 +33,6 @@
 * Other
  * break - continue
  * range()
- * list comprehension
 ---
 
 ## Part 3 Functions and Modules
