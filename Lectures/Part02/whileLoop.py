@@ -1,0 +1,4 @@
+# while (şart)
+
+
+# break
